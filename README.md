@@ -1,4 +1,5 @@
 # small-regex-c
+[Original source](https://repo.4neko.org/4NEKO/small-regex-c.git) by Aleksandr M.
 # A reimplementation of the small and portable library written in C.  
 This implementation avoids using recursion during matching/compiling process in order to fit in small stack machins. Also it is using different method of the the structuring compiled data.
 
